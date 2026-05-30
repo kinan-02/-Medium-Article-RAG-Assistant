@@ -1,6 +1,6 @@
-fastapi==0.111.0
-pydantic==2.7.1
-pinecone==4.0.0
-langchain-openai==0.1.7
-tiktoken==0.7.0
-python-dotenv==1.0.1
+fastapi
+pydantic>=2.8.2
+pinecone
+langchain-openai
+tiktoken
+python-dotenv
